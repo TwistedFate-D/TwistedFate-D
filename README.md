@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI development
 - 💞️ I’m looking to collaborate on anybody
 - 📫 How to reach me twistedfate435999@gmail.com
-- ⚡ Fun fact: basketball
+- ⚡ Fun fact: Basketball
 
 <!---
 TwistedFate-D/TwistedFate-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
